@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/PRETELLUS/ProTellus/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/PRETELLUS/ProTellus/Content/Tellus/Level.umap",
+				"C:/PRETELLUS/ProTellus/Content/Tellus/Interface.uasset",
+				"C:/PRETELLUS/ProTellus/Content/Tellus/Blueprints/FirstPersonCharacter.uasset",
+				"C:/PRETELLUS/ProTellus/Content/Tellus/Sound/720953__tylerwalker91__iphonetappingcontactmic.uasset",
+				"C:/PRETELLUS/ProTellus/Content/Tellus/Sound/717538__mimi_meow__phone-typingtexting.uasset",
+				"C:/PRETELLUS/ProTellus/Content/Tellus/Sound/723991__biggertigger2006__omnichord.uasset",
+				"C:/PRETELLUS/ProTellus/Content/Tellus/Sound/540321__colorscrimsontears__system-shutdown.uasset",
+				"C:/PRETELLUS/ProTellus/Content/Tellus/Sound/713595__harrisonlace__random_ui_selection.uasset"
+			]
+		}
+	]
+}
