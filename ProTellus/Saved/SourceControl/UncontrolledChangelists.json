@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/cianf/OneDrive/Documents/GitHub/Collab_Project_4_TELLUS/ProTellus/Content/Models/TellusStatic/Import_Test.uasset",
+				"C:/Users/cianf/OneDrive/Documents/GitHub/Collab_Project_4_TELLUS/ProTellus/Content/Models/TellusStatic/Material.uasset",
+				"C:/Users/cianf/OneDrive/Documents/GitHub/Collab_Project_4_TELLUS/ProTellus/Content/Models/TellusStatic/Material_002.uasset",
+				"C:/Users/cianf/OneDrive/Documents/GitHub/Collab_Project_4_TELLUS/ProTellus/Content/Models/TellusStatic/Material_001.uasset",
+				"C:/Users/cianf/OneDrive/Documents/GitHub/Collab_Project_4_TELLUS/ProTellus/Content/Models/TellusStatic/Import_Test_Skeleton.uasset",
+				"C:/Users/cianf/OneDrive/Documents/GitHub/Collab_Project_4_TELLUS/ProTellus/Content/Models/TellusStatic/Import_Test_PhysicsAsset.uasset",
 				"C:/PRETELLUS/ProTellus/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/PRETELLUS/ProTellus/Content/Tellus/Level.umap",
 				"C:/PRETELLUS/ProTellus/Content/Tellus/Interface.uasset",
